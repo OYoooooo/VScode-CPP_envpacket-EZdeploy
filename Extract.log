@@ -1,0 +1,49 @@
+10:38:13[INFO] 
+10:38:13[INFO] 7-Zip 19.00 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+10:38:13[INFO] 
+10:38:13[INFO] Scanning the drive for archives:
+10:38:13[INFO] 1 file, 69893605 bytes (67 MiB)
+10:38:13[INFO] 
+10:38:13[INFO] Extracting archive: data\MinGW.7z
+10:38:18[INFO] --
+10:38:18[INFO] Path = data\MinGW.7z
+10:38:18[INFO] Type = 7z
+10:38:18[INFO] Physical Size = 69893605
+10:38:18[INFO] Headers Size = 24575
+10:38:18[INFO] Method = LZMA2:25
+10:38:18[INFO] Solid = +
+10:38:18[INFO] Blocks = 1
+10:38:18[INFO] 
+10:38:18[INFO] Everything is Ok
+10:38:18[INFO] 
+10:38:18[INFO] Folders: 91
+10:38:18[INFO] Files: 1752
+10:38:18[INFO] Size:       254628040
+10:38:18[INFO] Compressed: 69893605
+10:38:18[INFO] 
+10:38:18[INFO] 
+10:38:18[INFO] 
+10:38:18[INFO] 7-Zip 19.00 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+10:38:18[INFO] 
+10:38:18[INFO] Scanning the drive for archives:
+10:38:18[INFO] 1 file, 3215 bytes (4 KiB)
+10:38:18[INFO] 
+10:38:18[INFO] Extracting archive: data\config.7z
+10:38:18[INFO] --
+10:38:18[INFO] Path = data\config.7z
+10:38:18[INFO] Type = 7z
+10:38:18[INFO] Physical Size = 3215
+10:38:18[INFO] Headers Size = 305
+10:38:18[INFO] Method = LZMA2:6k
+10:38:18[INFO] Solid = +
+10:38:18[INFO] Blocks = 1
+10:38:18[INFO] 
+10:38:18[INFO] Everything is Ok
+10:38:18[INFO] 
+10:38:18[INFO] Folders: 1
+10:38:18[INFO] Files: 5
+10:38:18[INFO] Size:       6113
+10:38:18[INFO] Compressed: 3215
+10:38:18[INFO] 
+10:38:18[INFO] 
+10:38:18[INFO] 
